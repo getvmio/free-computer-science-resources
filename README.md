@@ -1,5 +1,9 @@
 # Computer Science Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 💻 Explore the foundations of computing with our Computer Science Hub! This repository features a curated collection of free educational resources covering various CS topics. With an interactive online Playground, it's perfect for students, self-learners, and tech enthusiasts diving into the world of computer science.
 
 ## Resources
